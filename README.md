@@ -1,4 +1,4 @@
-#How to get fast Vite ! React and Tailwing project un and running ?
+# How to get fast Vite ! React and Tailwing project un and running ?
 
 1. npm install
 2. npm run dev
